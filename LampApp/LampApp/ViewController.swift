@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  BankApp
+//  LampApp
 //
-//  Created by Liz Alpizar on 25/03/24.
+//  Created by Liz Alpizar on 06/04/24.
 //
 
 import UIKit
@@ -13,10 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    
-    //antes de que aparezca : viewWillAppear
-    //antes de que desaparezca : viewWillDisappear
-    
+
 
 }
 
